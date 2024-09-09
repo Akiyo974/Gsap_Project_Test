@@ -20,5 +20,10 @@ body {
 
 h1 {
     font-size: 100px;
-    font-weight: 500;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+h1 span {
+    display: inline-block;
 }
